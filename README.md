@@ -26,4 +26,23 @@ This project focuses on analyzing the stock prices of major banks using Python a
 Data for this project was sourced from Yahoo Finance.
 
 
+---
+
+### Additional Files
+
+1. **`requirements.txt`**  
+   Include the dependencies for your project:
+   ```plaintext
+   pandas
+   numpy
+   matplotlib
+   seaborn
+   plotly
+   cufflinks
+   yfinance
+
+   
+
+
+
 
