@@ -43,9 +43,11 @@ Data for this project was sourced from Yahoo Finance.
 
    
 Two plotly iplots are given below
+📊 Sample Visualizations
 
 ![newplot](https://github.com/user-attachments/assets/f40f84e9-0bf9-43e2-9429-e0dde4db5506)
 
+Candlestick Chart
 ![newplot (1)](https://github.com/user-attachments/assets/11ceb078-c1b9-45ad-999b-c2c340ddd0fc)
 
 
