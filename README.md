@@ -19,7 +19,7 @@ This project focuses on analyzing the stock prices of major banks using Python a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bank-stock-price-analysis.git
+   git clone https://github.com/Gaurang2737/bank-stock-price-analysis.git
    cd bank-stock-price-analysis
 
 📈 Data Sources
